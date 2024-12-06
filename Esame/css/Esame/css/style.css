@@ -1,0 +1,225 @@
+body {
+    font-family: Arial, helvetica, sans-serif;
+    background-color: #f3f3f3;
+    
+}
+
+.dark{
+    background-color: #212f3e;
+}
+
+#logoalto{
+    background-image: url("../img/logo.png");
+    display:inline-block;
+    background-size:cover;
+    background-position: center;
+    width: 30%;
+    height: 9vw;
+    margin:1%;
+    vertical-align:top;
+    box-sizing: border-box;
+}
+
+header nav{
+    background-color: #36475a;
+    padding: 0.8%;
+}
+
+
+
+header nav {
+    background-color: #36475a;
+    padding: 0.8%;
+}
+
+header nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    font-size: 90%;
+    
+    
+}
+
+header nav li {
+    display: inline-block; 
+    margin-right: 2%;
+    padding-left: 2%;
+}
+
+header nav a {
+    text-decoration: none;
+    color: white;
+    display: inline-block; 
+}
+
+#orange {
+    color:white;
+    text-align: center;
+    background-color: #f66600;
+    margin: 2%;
+    padding: 0.8%;
+}
+
+#regali{
+    background-image: url("../img/bg-image.png");
+    padding: 7%;
+    text-align: center;
+    color:white;
+    margin: 2%;
+}
+
+#regali h1{
+    padding-bottom: 2%;
+    font-size: 200%;
+    font-weight: bold;
+}
+
+.gift-section{
+    padding: 0.8%;
+    margin: 2%;
+    padding: 2em 0;
+    background-color: white;
+}
+
+.gift-section h2{
+    text-align: left;
+    padding: 1%;
+}
+
+.gift-section a{
+    color: darkblue;
+    font-size: 70%;
+
+}
+
+
+#kindle{
+    background-image: url("../img/img_1.jpg");
+    display: inline-block;
+    background-size:cover;
+    background-position: center;
+    width: 22%;
+    height: 25vw;
+    margin:1%;
+    vertical-align:top;
+    border-radius: 8%;
+    box-shadow: 21px 11px 32px -11px rgba(145,142,145,1);
+}
+
+#vaso{
+    background-image: url("../img/img_2.jpg");
+    display: inline-block;
+    background-size:cover;
+    background-position: center;
+    width: 22%;
+    height: 25vw;
+    margin:1%;
+    vertical-align:top;
+    border-radius: 8%;
+    box-shadow: 21px 11px 32px -11px rgba(145,142,145,1);
+}
+
+#smart{
+    background-image: url("../img/img_3.jpg");
+    display: inline-block;
+    background-size:cover;
+    background-position: center;
+    width: 22%;
+    height: 25vw;
+    margin:1%;
+    vertical-align:top;
+    border-radius: 8%;
+    box-shadow: 21px 11px 32px -11px rgba(145,142,145,1);
+}
+
+#pet{
+    background-image: url("../img/img_4.jpg");
+    display: inline-block;
+    background-size:cover;
+    background-position: center;
+    width: 22%;
+    height: 25vw;
+    margin:1%;
+    vertical-align:top;
+    border-radius: 8%;
+    box-shadow: 21px 11px 32px -11px rgba(145,142,145,1);
+}
+
+
+div .scritta {
+    text-align: center; 
+    font-size: 110%; 
+}
+
+.scritta a{
+    text-decoration: none;
+    color: darkblue;
+    font-size: 70%;
+}
+
+.gift-section h2 a{
+    text-decoration: none;
+}
+
+.visore{
+    background-image: url("../img/img_9.png");
+    padding: 7%;
+    margin: 2%;
+    background-size: cover; 
+    background-position: center; 
+    padding-bottom: 20%;
+}
+
+
+.cassa{
+    background-image: url("../img/img_10.png");
+    padding: 7%;
+    margin: 2%;
+    background-size: cover; 
+    background-position: center; 
+    padding-bottom: 20%;
+}
+
+
+#back{
+    background-color: #36475a;
+    text-align: center;
+    color: white;
+    padding: 0.8%;
+    margin-top: 3%;
+
+}
+
+footer a{
+    color: white;
+    text-decoration: none;
+}
+
+footer #logobasso{
+    background-image: url("../img/logo.png");
+    display: inline-block;
+    background-size:cover;
+    background-position: center;
+    width: 30%;
+    height: 9vw;
+    margin:1%;
+    vertical-align:top;
+    box-sizing: border-box; 
+}
+
+footer{
+    background-color: #212f3e;
+    text-align: center; 
+}
+
+
+
+
+
+
+
+
+
+
+
